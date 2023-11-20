@@ -1,5 +1,5 @@
 # ln-scaling-covenants
-Protocols that use simple covenants to scale Lightning. See scalingcovenants_v1.2.pdf.
+Protocols that use simple covenants to scale Lightning. See scalingcovenants_v1.3.pdf.
 
 Also, the small python3 program tt_analysis.py analyzes scalability
 given the requirement that all timeout-tree leaves can be put onchain.
